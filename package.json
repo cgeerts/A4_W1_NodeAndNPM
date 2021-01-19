@@ -4,8 +4,12 @@
   "description": "learning node and npm",
   "main": "app.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 7cfc7b9293df3cf17f8b4008d284508ea0729c4f
   },
   "repository": {
     "type": "git",
